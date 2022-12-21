@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/dapp/static/css/main.26ecce43.css",
+    "main.js": "/dapp/static/js/main.9a3eea28.js",
+    "static/js/787.86d1fdd7.chunk.js": "/dapp/static/js/787.86d1fdd7.chunk.js",
+    "static/media/wheel.mp4": "/dapp/static/media/wheel.45d9e6bc652ef076d5f9.mp4",
+    "static/media/Pool.png": "/dapp/static/media/Pool.7c127a52bede06b3b0e2.png",
+    "static/media/FOXTLottery.png": "/dapp/static/media/FOXTLottery.eb9540f8972f7d5da7ae.png",
+    "static/media/FOXTBanner3.png": "/dapp/static/media/FOXTBanner3.823ee1cf7baeafbd5165.png",
+    "static/media/wheel.jpg": "/dapp/static/media/wheel.d6e558b025dc455e0a46.jpg",
+    "static/media/gameBG7.png": "/dapp/static/media/gameBG7.376da6b74b99755e2507.png",
+    "static/media/20.png": "/dapp/static/media/20.fa8644841e55dd66d756.png",
+    "static/media/22.png": "/dapp/static/media/22.6255240a4d4dd3c7c40b.png",
+    "static/media/19.png": "/dapp/static/media/19.527a6bb00cabda983cef.png",
+    "static/media/21.png": "/dapp/static/media/21.0edb4d62cac0603f588a.png",
+    "static/media/16.png": "/dapp/static/media/16.c5b204268bce5b70387b.png",
+    "static/media/18.png": "/dapp/static/media/18.076cc34863c0264f86b7.png",
+    "static/media/15.png": "/dapp/static/media/15.aba517536f1364c9ef46.png",
+    "static/media/17.png": "/dapp/static/media/17.a9f6d36f3a250865cf29.png",
+    "static/media/Ranking.png": "/dapp/static/media/Ranking.b625af0b49d85dd5f08e.png",
+    "static/media/win1.png": "/dapp/static/media/win1.ef2b954360851144e1d8.png",
+    "static/media/win2.png": "/dapp/static/media/win2.2341e46558edea14e325.png",
+    "static/media/win3.png": "/dapp/static/media/win3.8e27436898bc06e02d7c.png",
+    "index.html": "/dapp/index.html",
+    "main.26ecce43.css.map": "/dapp/static/css/main.26ecce43.css.map",
+    "main.9a3eea28.js.map": "/dapp/static/js/main.9a3eea28.js.map",
+    "787.86d1fdd7.chunk.js.map": "/dapp/static/js/787.86d1fdd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26ecce43.css",
+    "static/js/main.9a3eea28.js"
+  ]
+}
